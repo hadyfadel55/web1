@@ -12,5 +12,5 @@ noBtn.addEventListener("mouseover", function () {
 const button = document.getElementById("yesBtn");
 
 button.addEventListener("click", function () {
-    alert("nice nigga");
+    alert("good job nigga");
 });
